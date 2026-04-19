@@ -1,1 +1,1 @@
-# NOTES-
+# NOTES-  these are the command notes 
